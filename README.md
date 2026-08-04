@@ -3,5 +3,6 @@
 ## Article Index
 
 <!-- backlink-building:github-repository:start -->
-_No articles published yet._
+### timer.ac.nz
+- [Timeboxing Productivity: Why a Countdown Timer Beats Willpower](timer.ac.nz/timeboxing-productivity-why-a-countdown-timer-beats-willpower.md)
 <!-- backlink-building:github-repository:end -->
